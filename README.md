@@ -13,9 +13,9 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/Muhammad Muammar %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
 
 
-![SelienHadiSaputra GitHub stats](https://github-readme-stats.vercel.app/api?username=selien78&show_icons=true&theme=radical)
+![Muhammadmuammar GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selien78&layout=compact&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amar&layout=compact&theme=blueberry)
 
-[INSTAGRAM]: https://www.instagram.com/mhdmuammar
+[INSTAGRAM]: https://instagram.com/mhdmuammar
 [EMAIL]: mailto:mmuammar391@gmail.com
