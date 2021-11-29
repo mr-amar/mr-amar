@@ -17,5 +17,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amar&layout=compact&theme=blueberry)
 
-[INSTAGRAM]: https://instagram.com/mhdmuammar
+[INSTAGRAM]:https://www.instagram.com/mhdmuammar/
 [EMAIL]: mailto:mmuammar391@gmail.com
